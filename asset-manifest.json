@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/LouisPierre-Andre/website.git/static/css/main.7604106b.css",
-    "main.js": "/LouisPierre-Andre/website.git/static/js/main.3361ff5c.js",
-    "static/js/787.bbe01249.chunk.js": "/LouisPierre-Andre/website.git/static/js/787.bbe01249.chunk.js",
-    "static/media/movieApp.png": "/LouisPierre-Andre/website.git/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
-    "static/media/quizeApp1.png": "/LouisPierre-Andre/website.git/static/media/quizeApp1.bf76cc57c3c2e0a4813a.png",
-    "static/media/music.png": "/LouisPierre-Andre/website.git/static/media/music.80f5799a722a91b043ae.png",
-    "static/media/youtube.png": "/LouisPierre-Andre/website.git/static/media/youtube.2c9e3462710677348aee.png",
-    "static/media/hero.png": "/LouisPierre-Andre/website.git/static/media/hero.fa861f29bd4790cedc2a.png",
-    "static/media/tiktok.png": "/LouisPierre-Andre/website.git/static/media/tiktok.3bb31a8a92f3cb18805a.png",
-    "static/media/ecommerce.png": "/LouisPierre-Andre/website.git/static/media/ecommerce.d63bdf5a8fd46d243d1a.png",
-    "static/media/instagram.png": "/LouisPierre-Andre/website.git/static/media/instagram.fb16b19b85af61e0959e.png",
-    "static/media/Profile2.png": "/LouisPierre-Andre/website.git/static/media/Profile2.ecc4f98cb4b993d1aa83.png",
-    "static/media/codes.webp": "/LouisPierre-Andre/website.git/static/media/codes.731808eef6501fa2747f.webp",
-    "static/media/whatsapp.png": "/LouisPierre-Andre/website.git/static/media/whatsapp.f38d424ea66df1a54ef7.png",
-    "static/media/Profile1.png": "/LouisPierre-Andre/website.git/static/media/Profile1.e873c0d2f5cfec41b2d3.png",
-    "static/media/portfolioHero.jpg": "/LouisPierre-Andre/website.git/static/media/portfolioHero.994077c78fa10d155861.jpg",
-    "static/media/contact_hero2.jpg": "/LouisPierre-Andre/website.git/static/media/contact_hero2.8457942b19e0612e4694.jpg",
-    "index.html": "/LouisPierre-Andre/website.git/index.html",
-    "main.7604106b.css.map": "/LouisPierre-Andre/website.git/static/css/main.7604106b.css.map",
-    "main.3361ff5c.js.map": "/LouisPierre-Andre/website.git/static/js/main.3361ff5c.js.map",
-    "787.bbe01249.chunk.js.map": "/LouisPierre-Andre/website.git/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/LouisPierre-Andre/website/static/css/main.81dc0135.css",
+    "main.js": "/LouisPierre-Andre/website/static/js/main.dfd8bafd.js",
+    "static/js/787.bbe01249.chunk.js": "/LouisPierre-Andre/website/static/js/787.bbe01249.chunk.js",
+    "static/media/movieApp.png": "/LouisPierre-Andre/website/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
+    "static/media/quizeApp1.png": "/LouisPierre-Andre/website/static/media/quizeApp1.bf76cc57c3c2e0a4813a.png",
+    "static/media/music.png": "/LouisPierre-Andre/website/static/media/music.80f5799a722a91b043ae.png",
+    "static/media/youtube.png": "/LouisPierre-Andre/website/static/media/youtube.2c9e3462710677348aee.png",
+    "static/media/hero.png": "/LouisPierre-Andre/website/static/media/hero.fa861f29bd4790cedc2a.png",
+    "static/media/tiktok.png": "/LouisPierre-Andre/website/static/media/tiktok.3bb31a8a92f3cb18805a.png",
+    "static/media/ecommerce.png": "/LouisPierre-Andre/website/static/media/ecommerce.d63bdf5a8fd46d243d1a.png",
+    "static/media/instagram.png": "/LouisPierre-Andre/website/static/media/instagram.fb16b19b85af61e0959e.png",
+    "static/media/Profile2.png": "/LouisPierre-Andre/website/static/media/Profile2.ecc4f98cb4b993d1aa83.png",
+    "static/media/codes.webp": "/LouisPierre-Andre/website/static/media/codes.731808eef6501fa2747f.webp",
+    "static/media/whatsapp.png": "/LouisPierre-Andre/website/static/media/whatsapp.f38d424ea66df1a54ef7.png",
+    "static/media/Profile1.png": "/LouisPierre-Andre/website/static/media/Profile1.e873c0d2f5cfec41b2d3.png",
+    "static/media/portfolioHero.jpg": "/LouisPierre-Andre/website/static/media/portfolioHero.994077c78fa10d155861.jpg",
+    "static/media/contact_hero2.jpg": "/LouisPierre-Andre/website/static/media/contact_hero2.8457942b19e0612e4694.jpg",
+    "index.html": "/LouisPierre-Andre/website/index.html",
+    "main.81dc0135.css.map": "/LouisPierre-Andre/website/static/css/main.81dc0135.css.map",
+    "main.dfd8bafd.js.map": "/LouisPierre-Andre/website/static/js/main.dfd8bafd.js.map",
+    "787.bbe01249.chunk.js.map": "/LouisPierre-Andre/website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7604106b.css",
-    "static/js/main.3361ff5c.js"
+    "static/css/main.81dc0135.css",
+    "static/js/main.dfd8bafd.js"
   ]
 }
