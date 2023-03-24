@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.9a63e18f.css",
-    "main.js": "/website/static/js/main.4c71bfa9.js",
+    "main.css": "/website/static/css/main.054f3a1a.css",
+    "main.js": "/website/static/js/main.7d09be72.js",
     "static/js/787.bbe01249.chunk.js": "/website/static/js/787.bbe01249.chunk.js",
+    "static/media/truck_line.PNG": "/website/static/media/truck_line.266293596bf12807eb60.PNG",
     "static/media/movieApp.png": "/website/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
     "static/media/quizeApp1.png": "/website/static/media/quizeApp1.bf76cc57c3c2e0a4813a.png",
     "static/media/music.png": "/website/static/media/music.80f5799a722a91b043ae.png",
@@ -10,7 +11,6 @@
     "static/media/hero.png": "/website/static/media/hero.fa861f29bd4790cedc2a.png",
     "static/media/tiktok.png": "/website/static/media/tiktok.3bb31a8a92f3cb18805a.png",
     "static/media/ecommerce.png": "/website/static/media/ecommerce.d63bdf5a8fd46d243d1a.png",
-    "static/media/instagram.png": "/website/static/media/instagram.fb16b19b85af61e0959e.png",
     "static/media/Profile2.png": "/website/static/media/Profile2.ecc4f98cb4b993d1aa83.png",
     "static/media/codes.webp": "/website/static/media/codes.731808eef6501fa2747f.webp",
     "static/media/whatsapp.png": "/website/static/media/whatsapp.f38d424ea66df1a54ef7.png",
@@ -18,12 +18,12 @@
     "static/media/portfolioHero.jpg": "/website/static/media/portfolioHero.994077c78fa10d155861.jpg",
     "static/media/contact_hero2.jpg": "/website/static/media/contact_hero2.8457942b19e0612e4694.jpg",
     "index.html": "/website/index.html",
-    "main.9a63e18f.css.map": "/website/static/css/main.9a63e18f.css.map",
-    "main.4c71bfa9.js.map": "/website/static/js/main.4c71bfa9.js.map",
+    "main.054f3a1a.css.map": "/website/static/css/main.054f3a1a.css.map",
+    "main.7d09be72.js.map": "/website/static/js/main.7d09be72.js.map",
     "787.bbe01249.chunk.js.map": "/website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a63e18f.css",
-    "static/js/main.4c71bfa9.js"
+    "static/css/main.054f3a1a.css",
+    "static/js/main.7d09be72.js"
   ]
 }
